@@ -1,0 +1,72 @@
+body{
+    background-color: rgb(255, 255, 255)
+}
+
+.pestanas{
+    background-color: rgb(232, 232, 232)
+}
+
+.topbutton{
+    background-color: rgb(247, 247, 247)
+}
+
+.topbutton:disabled{
+    background-color: rgb(255, 255, 255)
+}
+
+.topbutton:hover{
+    background-color: rgb(255, 255, 255)
+}
+
+.topbuttonsmall{
+    background-color: rgb(247, 247, 247)
+}
+
+.topbuttonsmall:disabled{
+    background-color: rgb(255, 255, 255)
+}
+
+.topbuttonsmall:hover{
+    background-color: rgb(255, 255, 255)
+}
+
+.footer{
+    color: black;
+}
+
+.content{
+    color: black;
+}
+
+.content input{
+    color: black;
+    background-color:rgb(255, 255, 255);
+    border-color: rgb(204, 204, 204);
+}
+.content input:active{
+    background-color: rgb(232, 232, 232)
+}
+
+.content button{
+    color: black;
+    background-color: rgb(229, 229, 229)
+}
+
+.downloadbtn{
+    color: black;
+    background-color: rgb(229, 229, 229)
+}
+
+.content button:hover{
+    background-color: rgb(178, 178, 178)
+}
+
+.content button:active{
+    background-color: (126, 126, 126);
+}
+
+.preview{
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(247, 247, 247);
+    padding: 20px;
+}

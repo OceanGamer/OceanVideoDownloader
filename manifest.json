@@ -1,0 +1,26 @@
+{
+    "manifest_version": 3,
+    "name": "OceanMediaDownloader",
+    "permissions": [
+      "tabs",
+      "activeTab",
+      "downloads"
+    ],
+    "description": "Descarga videos en HD de Youtube, TikTok, Instagram y Facebook",
+    "version": "1.0",
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "16": "/images/icons/logo16.png",
+        "32": "/images/icons/logo32.png",
+        "48": "/images/icons/logo48.png",
+        "128": "/images/icons/logo128.png"
+      }
+    },
+    "icons": {
+        "16": "/images/icons/logo16.png",
+        "32": "/images/icons/logo32.png",
+        "48": "/images/icons/logo48.png",
+        "128": "/images/icons/logo128.png"
+    }
+  }
